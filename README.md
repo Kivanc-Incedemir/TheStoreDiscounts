@@ -41,7 +41,7 @@ discounts apply:
 
    • Leverage today&#39;s best coding practices
 
-• Clear README.md that explains how
+   • Clear README.md that explains how
     the code and the test can be run and
     how the
     coverage reports can be generated
