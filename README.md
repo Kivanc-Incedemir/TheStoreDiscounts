@@ -36,6 +36,7 @@ discounts apply:
    all the key classes in your solution. This
    can either be on paper or using a CASE
    tool
+
    • Code to be generic and simple
 
    • Leverage today&#39;s best coding practices
