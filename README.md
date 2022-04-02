@@ -26,28 +26,28 @@ discounts apply:
    User interface is not required.
 
 
-   What we care about:
+What we care about:
 
-   Required Activities
+Required Activities
 
-   • Object oriented programming
+• Object oriented programming
    approach, provide a high level UML class
    diagram of
    all the key classes in your solution. This
    can either be on paper or using a CASE
    tool
 
-   • Code to be generic and simple
+• Code to be generic and simple
 
-   • Leverage today&#39;s best coding practices
+• Leverage today&#39;s best coding practices
 
-   • Clear README.md that explains how
+• Clear README.md that explains how
     the code and the test can be run and
     how the
     coverage reports can be generated
 
 
-   Bonus Activities
+Bonus Activities
 
 • Create scripts, e.g. Maven, etc. to:
 
